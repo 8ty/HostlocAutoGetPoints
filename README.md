@@ -68,3 +68,5 @@
 ![image](https://user-images.githubusercontent.com/64535826/118830589-a7656000-b8f1-11eb-9c2f-e1287a41ab11.png)
 
 设置好Actions secrets后就可以在Action中运行了。如不运行在库中进行任意提交触发Action即可
+
+test
